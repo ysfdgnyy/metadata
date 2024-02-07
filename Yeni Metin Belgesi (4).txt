@@ -1,0 +1,11 @@
+{
+  "name": "yusufdogan",
+  "website": "https://github.com/ysfdgnyy",
+  "description": "i operate an same date",
+  "logo": "https://r.resimlink.com/aMt_cNGS8.png",
+  "twitter": "https://twitter.com/doganysuf"
+}
+
+
+
+
